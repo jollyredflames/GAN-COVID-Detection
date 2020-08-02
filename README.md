@@ -1,2 +1,2 @@
 # GAN-COVID-Detection
-An implementation of the pix2pix network to work for anomaly detection in chest scans. The architecture should help detect and diagnose COVID and can help build more reliable statistics on the infectioctious rate if it is implemented in a Hospital autopsy setting.
+An implementation of the pix2pix network to work for anomaly detection in chest scans. The architecture should help detect anamoly chest scans and can help reduce medical burden by pre-screening lungs which have no obvious signs of virla/bacterial infection. We envision the optimal system assigning priorities to patients to ensure the most dire patients get prioritized in healthcare.
